@@ -1,4 +1,4 @@
-@Library('roboshop2024') _
+@Library('roboshop') _
 
 env.COMPONENT="payment"
 python()
